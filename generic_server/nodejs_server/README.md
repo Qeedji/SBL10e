@@ -47,4 +47,4 @@ With *<ip_address>* the IPv4 address of your server.
 
 in the folowing example picture, the SBL IPv4 address is *192.168.1.150* and the server IPv4 address is *192.168.1.122*.
 
-![Alt text](webui.png?raw=true)
+![Alt text](webui.PNG?raw=true)
